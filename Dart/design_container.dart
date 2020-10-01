@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 void main()=>runApp(MaterialApp(
   home: ContainerApp(),
-  debugShowCheckedModeBanner: false,
 ));
 
 class ContainerApp extends StatefulWidget {
